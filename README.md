@@ -1,6 +1,7 @@
 # State_City
 Select state and select City
 
+## Screenshot
 
 ![photo_2018-08-20_10-23-35](https://user-images.githubusercontent.com/36324801/44322574-30aa8800-a463-11e8-981e-80872e4eb282.jpg)
 
